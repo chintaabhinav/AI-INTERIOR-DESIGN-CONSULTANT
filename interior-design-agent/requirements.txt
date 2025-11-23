@@ -1,0 +1,28 @@
+# Core CrewAI framework
+crewai==0.28.8
+crewai-tools==0.1.6
+
+# LangChain (required by CrewAI)
+langchain==0.1.20
+langchain-core>=0.1.0 
+langchain-openai==0.1.7
+langchain-community==0.0.38
+
+# LLM Providers
+langchain-groq==0.1.3          # ADD THIS LINE - For Groq (free LLM)
+
+# Environment & Config
+python-dotenv==1.0.0
+
+# Web Tools
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Data Processing (updated for Python 3.12)
+pandas>=2.1.0
+pydantic==2.7.0
+
+# For Custom Tool (updated for Python 3.12)
+numpy>=1.26.0
+
+streamlit>=1.31.0

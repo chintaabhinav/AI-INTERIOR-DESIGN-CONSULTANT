@@ -1,0 +1,21 @@
+{
+  "timestamp": "20251122_002258",
+  "room_info": {
+    "room_type": "living room",
+    "room_length": 15.0,
+    "room_width": 12.0,
+    "room_height": 9.0,
+    "windows": "One large window on north wall",
+    "doors": "Entry door on south wall",
+    "must_haves": "Comfortable seating for 4-5, TV area, storage"
+  },
+  "user_preferences": {
+    "style": "Modern Scandinavian",
+    "color_preference": "Warm whites, light grays, natural wood tones",
+    "must_haves": "Comfortable seating for 4-5, TV area, storage",
+    "avoid": "Nothing too minimal or cold, heavy dark furniture",
+    "budget": 4000
+  },
+  "budget": 4000,
+  "report_file": "outputs/reports/design_plan_20251122_002258.txt"
+}
